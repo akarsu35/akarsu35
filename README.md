@@ -20,8 +20,6 @@ Full Stack Web Developer olarak çeşitli teknolojiler üzerinde çalışıyorum
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ### Öne Çıkan Projelerim:
-- [Proje Adı 1](https://github.com/akarsu35/proje-adi-1): Bu projede şu teknolojileri kullandım...
-- [Proje Adı 2](https://github.com/akarsu35/proje-adi-2): Bu projede şu teknolojileri kullandım...
 
 
 ### GitHub İstatistiklerim
